@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: free
+# key: free
+# --
+free(${1:p});
+$1 = 0;
+$0
