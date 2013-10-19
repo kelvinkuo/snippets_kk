@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: title
+# key: title
+# --
+#proj  :${1:project}
+#module:${2:modulename}
+#date  :`(current-time-string)`
+#author:kk
+$0
