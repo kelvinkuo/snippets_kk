@@ -2,8 +2,11 @@
 # name: title
 # key: title
 # --
-#proj  :${1:project}
-#module:${2:modulename}
-#date  :`(current-time-string)`
-#author:kk
+# -*- encoding: utf-8 -*-
+
+#proj   :${1:project}
+#module :${2:modulename}
+#summary:${3:description}
+#date   :`(current-time-string)`
+#author :kk
 $0
